@@ -1,0 +1,59 @@
+.LoginForm {
+    width: 50%;
+    margin: auto;
+    border: solid black 2px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#nav {
+    margin-bottom: 50px;
+    border: solid yellow 2 px;
+}
+
+#LoginBanner {
+    display: flex;
+    flex-wrap: no wrap;
+    width: 90vw;
+    margin: auto;
+}
+
+#bannerPic {
+    width: 40vw;
+    margin-bottom: 50px;
+}
+
+#friendsList {
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card {
+    min-width: 200px;
+    border: solid fuchsia 4px;
+}
+
+.backgroundColor {
+    background: #000;
+}
+
+.backColor {
+    background-color: turquoise;
+}
+
+.table {
+    width: 50%;
+    margin: auto;
+    border: solid black 2px;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 50PX;
+}
+
+.border { 
+    width: 50%;
+    margin: auto;
+    padding: 15px; 
+}
